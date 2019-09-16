@@ -28,6 +28,14 @@
     - Overview
     - Detail
     - Student success
+- Job market
+    - List of job
+        - Name of job
+        - Type of job (full time/part time)
+        - Job detail
+        - Apply button
+- Success stries
+    - List of student 
 - Footer
     - Copyright
     - Social media link
