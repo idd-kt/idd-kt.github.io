@@ -1,11 +1,44 @@
+html {
+    /* * First color * */
+    --primary-a: #6200ee;
+    --primary-b: #3700b3;
+    --secondary-a: #03dac6;
+    --secondary-b: #018786;
+    --background: #ffffff;
+    --error: #b00020;
+}
 body {
-    background-color: rgb(126, 126, 21);
+    background-color:white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1rem;
     color: darkslategrey;
 }
 img {
-    width: 50%;
+    width: 5rem;
+}
+
+header {
+    background-color: var(--secondary-b);
+    width: 100%;
+    height: 20rem;
+    color: white;
+    border: .1rem;
+    padding: 1rem;
+    
+}
+main {
+    background-color:skyblue;
+}
+.list_content {
+    
+}
+.column {
+    float: left;
+    width: 25%;
+}
+footer {
+    background-color: var(--primary-a);
+    color: aliceblue;
 }
 /*
 idd-kt
