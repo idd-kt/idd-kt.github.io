@@ -30,7 +30,7 @@ main {
     background-color:skyblue;
 }
 .list_content {
-    
+    float: table;
 }
 .column {
     float: left;
